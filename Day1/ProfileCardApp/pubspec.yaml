@@ -1,5 +1,5 @@
-name: helloworld
-description: A new Flutter project.
+name: profile_card_app
+description: Day 1 - Profile Card App for Internal Internship Week II.
 publish_to: 'none'
 
 version: 1.0.0+1

@@ -1,11 +1,11 @@
 {
-    "name": "hello_world",
-    "short_name": "hello_world",
+    "name": "Day 1 - Profile Card",
+    "short_name": "Profile Card",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Day 1 - Profile Card App for Internal Internship Week II.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
